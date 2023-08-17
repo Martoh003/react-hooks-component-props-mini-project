@@ -22,7 +22,7 @@ There is some starter code available in `src/components/App.js`. There is also
 some data in `data/blog.js` that is being imported into `App` so you can pass it
 down to the components that need it.
 
-## Deliverables
+## Deliverables 
 
 Have a look at the components below and draw out a component hierarchy so you
 can determine how to pass data down as props.
